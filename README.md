@@ -11,3 +11,8 @@
 - Pandas
 - scikit-learn
 - Matplotlib
+
+**Структура репозитория**:
+- /theory.ipynb - файл с теорией машинного обучения
+- /model_implementations - примеры реализаций моделей с помощью scikit-learn
+- /datasets - датасеты, на которых обучались модели
